@@ -1,4 +1,6 @@
 #Globalsat DG-100 GPS+ Data Logger - GPS Project
+#####Purpose
+To examine the reliability of GPS data logging for capturing trips in New York City. 
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100sm.jpg)](http://www.usglobalsat.com/p-25-dg-100-gpsdata-logger.aspx)
 
 ######BEST/CSIBS Staff
@@ -55,4 +57,11 @@ This poster includes info from Toph (former grad student of Andrew Rundle) who d
 ####Notes
 
 Modes A,B,C can have different time periods set. All are at 5 seconds right now.
+
+#####Devices/Software
+
+1. GlobalSat Data Logger
+2. RunKeeper?
+
+
 
