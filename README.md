@@ -9,7 +9,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 ##Tasks for best/csibs staff:
 <!--0. ~~Test~~ -->
-1. Download the drivers and software (Windows version).
+1. Download the drivers and software (Windows version). [Link to Software and Drivers](https://github.com/nygeog/globalsat#software-and-drivers-download)
 2. Install the driver. (Windows XP/ Vista/ 7 USB Drivers)
 3. Install the software. (Data Utility)
 
