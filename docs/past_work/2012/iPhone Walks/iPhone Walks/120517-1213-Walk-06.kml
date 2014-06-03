@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2"     creator="Mothership Software Limited: Kinetic" version="1.25">
+<Document>
+  <name>120517-1213-Walk-06</name>
+  <Style id="routePath">
+    <LineStyle>
+      <color>FFFFCD7D</color>
+      <width>7</width>
+    </LineStyle>
+  </Style>
+
+<Placemark>
+  <name>Start</name>
+  <description><![CDATA[<div dir="ltr">12:13:35 PM</div>]]></description>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>http://arxius.wearemothership.com/shared-graphics/start.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>-74.013655,40.707387</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Start</name>
+  <description><![CDATA[<div dir="ltr">12:17:31 PM</div>]]></description>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>http://arxius.wearemothership.com/shared-graphics/stop.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Point>
+    <coordinates>-74.013677,40.707415</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Walk%2006</name>
+  <description><![CDATA[
+<hr/>How did it go?<hr/>
+Notes<hr/>
+Walking<hr/>
+Walk 06<hr/>
+Thursday, May 17, 2012 12:13:35 PM<hr/>
+<small>Time</small>
+<h2>00:03:56.09</h2>
+<small>Distance</small>
+<h2>0.01 miles</h2>
+<hr/><div>
+<img src="http://arxius.wearemothership.com/shared-graphics/mothership-kinetic-icon.jpg"/><br/>
+Kinetic GPS for iPhone<br/>
+<a href="http://wearemothership.com/kinetic">wearemothership.com</a>
+</div><hr/>]]>
+</description>
+  <styleUrl>#routePath</styleUrl>
+  <MultiGeometry>
+  <LineString>
+  <tessellate>1</tessellate>
+  <altitudeMode>clampToGround</altitudeMode>
+  <coordinates>
+    -74.013655,40.707387,291 -74.013642,40.707374,325 -74.013631,40.707366,328 -74.013620,40.707361,328 -74.013610,40.707361,332 -74.013602,40.707362,332 -74.013597,40.707364,334 -74.013595,40.707367,335 -74.013595,40.707367,335 -74.013603,40.707373,331 -74.013612,40.707377,331 -74.013633,40.707389,328 -74.013655,40.707402,328   </coordinates>
+  </LineString>
+  </MultiGeometry>
+</Placemark>
+</Document>
+</kml>

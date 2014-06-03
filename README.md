@@ -17,6 +17,11 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 1. Send Toph's GPS walk maps.
 2. Send Toph's Protocol. 
 
+
+#GPS Walks
+Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn)
+
+
 ###DG-100 GPS+ Data Logger Specifications
 Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
 
