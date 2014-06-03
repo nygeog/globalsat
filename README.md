@@ -9,8 +9,8 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 ##Tasks for best/csibs staff:
 <!--0. ~~Test~~ -->
 1. Download the drivers and software (Windows version).
-2. Install the driver.
-3. Install the software.
+2. Install the driver. (Windows XP/ Vista/ 7 USB Drivers)
+3. Install the software. (Data Utility)
 
 ##Tasks for Danny:
 1. Send Toph's GPS walk maps.
