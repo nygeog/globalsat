@@ -6,11 +6,15 @@ Ciara Boyd - cboyd7473@mytu.tuskegee.edu
 Joseph Konecko - joseph.konecko@stonybrook.edu
 
 
-##Tasks:
+##Tasks for best/csibs staff:
 <!--0. ~~Test~~ -->
 1. Download the drivers and software (Windows version).
 2. Install the driver.
 3. Install the software.
+
+##Tasks for Danny:
+1. Track down Toph's GPS walk maps.
+2. Track down Toph's Protocol. 
 
 ###DG-100 GPS+ Data Logger Specifications
 [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
