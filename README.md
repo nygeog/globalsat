@@ -17,7 +17,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 2. Send Toph's Protocol. 
 
 ###DG-100 GPS+ Data Logger Specifications
-[Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
+Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
 
 ###DG-100 GPS+ Data Logger Video 
 This video provides an overview of the device. 
@@ -30,7 +30,7 @@ This video provides an overview of the device.
 
 The windows software allows for more export options (according to the GlobalSat tech I spoke to on the phone) and I've used. I haven't tried the mac version yet. 
 
-I have a video that shows the steps on how to use the software but at this point I don't think I can show b/c it includes the raw data from the DOHMH PATS. 
+I have a video that shows the steps on how to use the software but at this point I don't think I can show or share the file b/c it includes the raw data from the DOHMH PATS. 
 
 
 ##User Guide (pdf)
