@@ -19,7 +19,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 
 #GPS Walks
-Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here] (https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf))
+Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here] (https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf)
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
 
 ###DG-100 GPS+ Data Logger Specifications
@@ -43,7 +43,8 @@ I have a video that shows the steps on how to use the software but at this point
 ##User Guide (pdf)
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
 
-
+##Toph's Poster
+[Toph's Poster as PDF](https://github.com/nygeog/globalsat/raw/master/docs/past_work/Practicum%20Poster%20Board.pdf)
 
 ####Notes
 
