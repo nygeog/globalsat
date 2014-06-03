@@ -21,7 +21,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 
 #GPS Walks
-Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here] (https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf)
+Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here.](https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf) Click here for the methods of creating the walks. 
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
 
 #Protocol
@@ -63,7 +63,7 @@ Modes A,B,C can have different time periods set. All are at 5 seconds right now.
 1. GlobalSat Data Logger
 2. RunKeeper?
 
-#####Building Bulk Density:
+#####Building Bulk Density and Choosing Walks
 
 The purpose of this exercise was to identify street segments (city blocks) that we assumed would exhibit either high (of the upper quartile) GPS tracking error (via multipath or blocked line-of-sight interference) or low (of the lower quartile) GPS tracking error and then field test these street segments by walking down them with GPS devices, and comparing the travel distance observed by the GPS (point observation to point obervation distance calculations without correction) to the length of the segment walk. 
 
