@@ -44,6 +44,7 @@ I have a video that shows the steps on how to use the software but at this point
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
 
 ##Toph's Poster
+This poster includes info from Toph (former grad student of Andrew Rundle) who did these walks and presented a poster on the results. 
 [Toph's Poster as PDF](https://github.com/nygeog/globalsat/raw/master/docs/past_work/Practicum%20Poster%20Board.pdf)
 
 ####Notes
