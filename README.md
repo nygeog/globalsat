@@ -27,15 +27,15 @@ TBD
 
 1. Cold start the GPS at beginning of walk?
 
-###DG-100 GPS+ Data Logger Specifications
+###DG-100 GPS+ Specifications
 Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
 
-###DG-100 GPS+ Data Logger Video 
+###DG-100 GPS+ Video 
 This video provides an overview of the device. 
 [GlobalSat DG-100 Video](https://www.youtube.com/watch?v=-ZuWIWfxt4U) 
 
 
-##Software and Drivers (download)
+###DG-100 Software and Drivers (download)
 [GPS software and drivers - GlobalSat website](http://www.usglobalsat.com/s-85-dg-100-support.aspx) 
 
 * Download the Windows version
@@ -45,7 +45,7 @@ The windows software allows for more export options (according to the GlobalSat 
 I have a video that shows the steps on how to use the software but at this point I don't think I can show or share the file b/c it includes the raw data from the DOHMH PATS. 
 
 
-##User Guide (pdf)
+###DG-100 User Guide (pdf)
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
 
 ##Toph's Poster
