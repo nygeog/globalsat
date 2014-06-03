@@ -14,7 +14,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 3. Install the software. (Data Utility)
 
 ##Tasks for Danny:
-1. Send Toph's GPS walk maps.
+1. ~~Send Toph's GPS walk maps.~~
 2. Send Toph's Protocol. 
 
 
