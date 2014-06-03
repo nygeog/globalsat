@@ -14,7 +14,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 ##Tasks for Danny:
 1. Send Toph's GPS walk maps.
-2. Send down Toph's Protocol. 
+2. Send Toph's Protocol. 
 
 ###DG-100 GPS+ Data Logger Specifications
 [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
