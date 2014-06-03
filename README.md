@@ -1,5 +1,5 @@
 #Globalsat DG-100 GPS+ Data Logger - GPS Project
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100sm.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100sm.jpg)](http://www.usglobalsat.com/p-25-dg-100-gpsdata-logger.aspx)
 
 ######BEST/CSIBS Staff
 Ciara Boyd - cboyd7473@mytu.tuskegee.edu
