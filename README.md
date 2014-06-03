@@ -1,4 +1,4 @@
-#Globalsat DG-100 GPS+Data Logger
+#Globalsat DG-100 GPS+ Data Logger
 
 ##Tasks:
 <!--0. ~~Test~~ -->
