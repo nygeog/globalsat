@@ -23,7 +23,7 @@ Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg
 This video provides an overview of the device. 
 [GlobalSat DG-100 Video](https://www.youtube.com/watch?v=-ZuWIWfxt4U) 
 
-[![IMAGE ALT TEXT HERE](https://cdn1.iconfinder.com/data/icons/complete-set-icons/512/youtube512x512.png)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
+[![IMAGE ALT TEXT HERE](https://github.com/nygeog/globalsat/blob/master/images/dg100.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
 
 
 ##Software and Drivers (download)
