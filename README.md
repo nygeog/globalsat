@@ -13,8 +13,8 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 3. Install the software.
 
 ##Tasks for Danny:
-1. Track down Toph's GPS walk maps.
-2. Track down Toph's Protocol. 
+1. Send Toph's GPS walk maps.
+2. Send down Toph's Protocol. 
 
 ###DG-100 GPS+ Data Logger Specifications
 [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
@@ -31,7 +31,7 @@ This video provides an overview of the device.
 The windows software allows for more export options (according to the GlobalSat tech I spoke to on the phone) and I've used. I haven't tried the mac version yet. 
 
 I have a video that shows the steps on how to use the software but at this point I don't think I can show b/c it includes the raw data from the DOHMH PATS. 
-<!--[BEH Video showing how to extract GPS data](https://www.dropbox.com/s/4ykkv01aqtx75s6/globalsat_data_logger_pc_utility_load_data_erase.mov)-->
+
 
 ##User Guide (pdf)
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
