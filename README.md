@@ -23,6 +23,9 @@ Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg
 This video provides an overview of the device. 
 [GlobalSat DG-100 Video](https://www.youtube.com/watch?v=-ZuWIWfxt4U) 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
+
+
 ##Software and Drivers (download)
 [GPS software and drivers - GlobalSat website](http://www.usglobalsat.com/s-85-dg-100-support.aspx) 
 
