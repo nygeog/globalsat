@@ -1,5 +1,5 @@
 #Globalsat DG-100 GPS+ Data Logger - GPS Project
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100sm.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
 
 ######BEST/CSIBS Staff
 Ciara Boyd - cboyd7473@mytu.tuskegee.edu
@@ -9,7 +9,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 ##Tasks for best/csibs staff:
 <!--0. ~~Test~~ -->
-1. Download the drivers and software (Windows version). [Link to Software and Drivers](https://github.com/nygeog/globalsat#software-and-drivers-download)
+1. Download the drivers and software (Windows version). [Software and Drivers](https://github.com/nygeog/globalsat#software-and-drivers-download)
 2. Install the driver. (Windows XP/ Vista/ 7 USB Drivers)
 3. Install the software. (Data Utility)
 
