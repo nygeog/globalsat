@@ -1,4 +1,5 @@
 #Globalsat DG-100 GPS+ Data Logger - GPS Project
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
 
 ######BEST/CSIBS Staff
 Ciara Boyd - cboyd7473@mytu.tuskegee.edu
@@ -22,8 +23,6 @@ Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg
 ###DG-100 GPS+ Data Logger Video 
 This video provides an overview of the device. 
 [GlobalSat DG-100 Video](https://www.youtube.com/watch?v=-ZuWIWfxt4U) 
-
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100.jpg)](https://www.youtube.com/watch?v=-ZuWIWfxt4U)
 
 
 ##Software and Drivers (download)
