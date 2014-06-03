@@ -61,7 +61,7 @@ Modes A,B,C can have different time periods set. All are at 5 seconds right now.
 #####Devices/Software
 
 1. GlobalSat Data Logger
-2. RunKeeper?
+2. RunKeeper? App
 
 #####Building Bulk Density and Choosing Walks
 
@@ -74,6 +74,7 @@ I calculate the geometric area of the building and then with the joined elevatio
 Then using a map of the quantiles of blocks by building bulk density I visually identified 1200 ft (check this against your maps!) walks that were either in the upper or lower quartile of building bulk density. These walks were also selected in that they were within a reasonable distance of public transit from Columbia University.
 
 
-
+######How Cell Phone GPS Works
+[How the iPhone knows where you are - MacWorld](http://www.macworld.com/article/1159528/how_iphone_location_works.html)
 
 
