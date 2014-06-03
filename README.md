@@ -22,6 +22,11 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here] (https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf)
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
 
+#Protocol
+TBD
+
+1. Cold start the GPS at beginning of walk?
+
 ###DG-100 GPS+ Data Logger Specifications
 Link to [Spec sheet pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_spec.pdf?raw=true)
 
