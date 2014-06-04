@@ -48,7 +48,7 @@ The windows software allows for more export options (according to the GlobalSat 
 I have a video that shows the steps on how to use the software but at this point I don't think I can show or share the file b/c it includes the raw data from the DOHMH PATS. 
 
 #####Global Sync for Mac
-![MyVideo](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/PBN1F8u4G88" frameborder="0" allowfullscreen></iframe>
 
 ###DG-100 User Guide (pdf)
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
