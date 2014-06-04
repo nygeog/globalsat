@@ -8,6 +8,7 @@ Ciara Boyd - cboyd7473@mytu.tuskegee.edu
 
 Joseph Konecko - joseph.konecko@stonybrook.edu
 
+[BEST/CSIBS Staff Schedule](https://github.com/nygeog/globalsat/raw/master/docs/2014_BEST_CSIBS%20calendar.pdf)
 
 ##Tasks for best/csibs staff:
 <!--0. ~~Test~~ -->
