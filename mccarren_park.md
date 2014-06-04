@@ -1,6 +1,6 @@
 #Danny's GPS Walks in McCarren Park
 
-Danny walked with all 14 DG-100 devices. Large red dots are the RunKeeper points. Device 15841 turned off in backpack likely b/c of contact with on/off switch. 
+Danny walked with all 14 DG-100 devices. Large red dots are the RunKeeper points. Device 15841 turned off in backpack likely b/c of contact with on/off switch. See GPS 6 map. 
 
 ![McCarren Park](/images/mccarren_pk.png)
 
@@ -11,6 +11,7 @@ Danny walked with all 14 DG-100 devices. Large red dots are the RunKeeper points
 ![McCarren Park SE corner aerial](/images/mccarren_pk_corner_se_aerial.png)
 
 #Individual Points vs. RunKeeper path
+Runkeeper path in Red. 
 ######GPS 1
 ![1](/images/mccarren_individual/1.bmp)
 ######GPS 2
@@ -21,7 +22,7 @@ Danny walked with all 14 DG-100 devices. Large red dots are the RunKeeper points
 ![1](/images/mccarren_individual/4.bmp)
 ######GPS 5
 ![1](/images/mccarren_individual/5.bmp)
-######GPS 6
+######GPS 6 (device 15841 turned off in backpack likely b/c of contact with on/off switch.)
 ![1](/images/mccarren_individual/6.bmp)
 ######GPS 7
 ![1](/images/mccarren_individual/7.bmp)
