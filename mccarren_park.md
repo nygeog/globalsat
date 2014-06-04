@@ -1,6 +1,13 @@
 #Danny's GPS Walks in McCarren Park
 
 Danny walked with all 14 DG-100 devices. Large red dots are the RunKeeper points. Device 15841 turned off in backpack likely b/c of contact with on/off switch. See GPS 6 map. 
+###Trip
+
+######MILES - 1.13
+
+######DURATION - 21:36
+
+######AVERAGE PACE - 19:11
 
 ![McCarren Park](/images/mccarren_pk.png)
 
