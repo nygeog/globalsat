@@ -22,8 +22,12 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 
 #GPS Walks
+##Toph's Walks
 Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here.](https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf) Click [here for the methods of creating the walks.](https://github.com/nygeog/globalsat#building-bulk-density-and-choosing-walks)
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
+
+##Danny's McCarren Park Walk
+[![McCarren Park](/images/mccarren_pk.png)](https://github.com/nygeog/globalsat/blob/master/mccarren_park.md)
 
 #Protocol
 TBD
