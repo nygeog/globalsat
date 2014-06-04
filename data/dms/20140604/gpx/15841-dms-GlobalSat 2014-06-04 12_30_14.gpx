@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="RouteBuddy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name><![CDATA[2014-06-04 10_17_12]]></name>
+        <trkseg>
+        <trkpt lat="40.71994167" lon="-73.95218500"><ele>22.00000000</ele><speed>0.53</speed><time>2014-06-04T14:17:12.00Z</time></trkpt>
+        <trkpt lat="40.71994500" lon="-73.95214000"><ele>17.00000000</ele><speed>0.58</speed><time>2014-06-04T14:17:17.00Z</time></trkpt>
+        <trkpt lat="40.71990333" lon="-73.95210333"><ele>14.00000000</ele><speed>0.81</speed><time>2014-06-04T14:17:29.00Z</time></trkpt>
+        <trkpt lat="40.71990667" lon="-73.95215167"><ele>7.00000000</ele><speed>0.67</speed><time>2014-06-04T14:18:10.00Z</time></trkpt>
+        <trkpt lat="40.71994667" lon="-73.95208333"><ele>17.00000000</ele><speed>0.56</speed><time>2014-06-04T14:18:24.00Z</time></trkpt>
+        <trkpt lat="40.72008167" lon="-73.95206500"><ele>27.00000000</ele><speed>2.22</speed><time>2014-06-04T14:18:30.00Z</time></trkpt>
+        <trkpt lat="40.72012333" lon="-73.95206667"><ele>29.00000000</ele><speed>1.08</speed><time>2014-06-04T14:18:35.00Z</time></trkpt>
+        </trkseg>
+    </trk>
+    <trk>
+        <name><![CDATA[2014-06-04 10_44_17]]></name>
+        <trkseg>
+        <trkpt lat="40.71993333" lon="-73.95294000"><ele>2.00000000</ele><speed>0.47</speed><time>2014-06-04T14:44:17.00Z</time></trkpt>
+        <trkpt lat="40.71995000" lon="-73.95290667"><ele>5.00000000</ele><speed>0.50</speed><time>2014-06-04T14:44:22.00Z</time></trkpt>
+        <trkpt lat="40.71995000" lon="-73.95282500"><ele>11.00000000</ele><speed>1.14</speed><time>2014-06-04T14:44:27.00Z</time></trkpt>
+        <trkpt lat="40.71994667" lon="-73.95275167"><ele>14.00000000</ele><speed>0.86</speed><time>2014-06-04T14:44:32.00Z</time></trkpt>
+        <trkpt lat="40.71993833" lon="-73.95267333"><ele>15.00000000</ele><speed>1.22</speed><time>2014-06-04T14:44:37.00Z</time></trkpt>
+        <trkpt lat="40.71993667" lon="-73.95259833"><ele>16.00000000</ele><speed>1.25</speed><time>2014-06-04T14:44:42.00Z</time></trkpt>
+        <trkpt lat="40.71995000" lon="-73.95252500"><ele>15.00000000</ele><speed>0.92</speed><time>2014-06-04T14:44:47.00Z</time></trkpt>
+        <trkpt lat="40.71990500" lon="-73.95248667"><ele>10.00000000</ele><speed>0.94</speed><time>2014-06-04T14:44:52.00Z</time></trkpt>
+        <trkpt lat="40.71985667" lon="-73.95247000"><ele>12.00000000</ele><speed>1.47</speed><time>2014-06-04T14:44:57.00Z</time></trkpt>
+        <trkpt lat="40.71978667" lon="-73.95245167"><ele>11.00000000</ele><speed>1.25</speed><time>2014-06-04T14:45:02.00Z</time></trkpt>
+        <trkpt lat="40.71972833" lon="-73.95242833"><ele>15.00000000</ele><speed>0.78</speed><time>2014-06-04T14:45:07.00Z</time></trkpt>
+        <trkpt lat="40.71968833" lon="-73.95244500"><ele>16.00000000</ele><speed>1.14</speed><time>2014-06-04T14:45:12.00Z</time></trkpt>
+        <trkpt lat="40.71963500" lon="-73.95242167"><ele>15.00000000</ele><speed>0.53</speed><time>2014-06-04T14:45:17.00Z</time></trkpt>
+        <trkpt lat="40.71954333" lon="-73.95242667"><ele>18.00000000</ele><speed>0.81</speed><time>2014-06-04T14:45:22.00Z</time></trkpt>
+        <trkpt lat="40.71947500" lon="-73.95241167"><ele>19.00000000</ele><speed>0.83</speed><time>2014-06-04T14:45:27.00Z</time></trkpt>
+        <trkpt lat="40.71939167" lon="-73.95240500"><ele>13.00000000</ele><speed>0.75</speed><time>2014-06-04T14:45:32.00Z</time></trkpt>
+        <trkpt lat="40.71936167" lon="-73.95236333"><ele>6.00000000</ele><speed>0.47</speed><time>2014-06-04T14:45:37.00Z</time></trkpt>
+        <trkpt lat="40.71928833" lon="-73.95237167"><ele>2.00000000</ele><speed>0.61</speed><time>2014-06-04T14:45:42.00Z</time></trkpt>
+        <trkpt lat="40.71922167" lon="-73.95235167"><ele>429492.72960000</ele><speed>0.72</speed><time>2014-06-04T14:45:47.00Z</time></trkpt>
+        <trkpt lat="40.71914000" lon="-73.95236000"><ele>429491.72960000</ele><speed>0.78</speed><time>2014-06-04T14:45:52.00Z</time></trkpt>
+        <trkpt lat="40.71905167" lon="-73.95237333"><ele>429494.72960000</ele><speed>0.72</speed><time>2014-06-04T14:45:57.00Z</time></trkpt>
+        <trkpt lat="40.71900333" lon="-73.95239000"><ele>9.00000000</ele><speed>1.14</speed><time>2014-06-04T14:46:02.00Z</time></trkpt>
+        <trkpt lat="40.71896167" lon="-73.95242500"><ele>20.00000000</ele><speed>1.19</speed><time>2014-06-04T14:46:07.00Z</time></trkpt>
+        </trkseg>
+    </trk>
+</gpx>
