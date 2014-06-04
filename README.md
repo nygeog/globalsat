@@ -27,6 +27,7 @@ Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
 
 ##Danny's McCarren Park Walk
+Click image to get to seperate page documenting the walks. 
 [![McCarren Park](/images/mccarren_pk.png)](https://github.com/nygeog/globalsat/blob/master/mccarren_park.md)
 
 #Protocol
