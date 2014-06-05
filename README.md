@@ -28,7 +28,7 @@ Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps
 
 ##Danny's McCarren Park Walk
 Click image to get to seperate page documenting the walks. 
-[![McCarren Park](/images/mccarren_pk.png)](https://github.com/nygeog/globalsat/blob/master/mccarren_park.md)
+[![McCarren Park](images/mccarren_pk.png)](https://github.com/nygeog/globalsat/blob/master/mccarren_park.md)
 
 #Protocol
 TBD
@@ -54,13 +54,12 @@ I have a video that shows the steps on how to use the software but at this point
 
 ###GlobalSat Data Logger PC Utility (Windows) 
 [BEH GlobalSat Data Logger PC Utility (Windows) Youtube Video Link](https://www.youtube.com/watch?v=nXzMpCh_Nww) 
-[![globalsatpc](/images/globalsat_pc.png)](https://www.youtube.com/watch?v=nXzMpCh_Nww)
+[![globalsatpc](images/globalsat_pc.png)](https://www.youtube.com/watch?v=nXzMpCh_Nww)
 
 ###GlobalSync for Mac
 [BEH GlobalSync for Mac Youtube Video Link](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be) 
+[![globalsatmac](images/globalsat_mac.png)](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be)
 <!--<iframe width="420" height="315" src="http://www.youtube.com/embed/PBN1F8u4G88" frameborder="0" allowfullscreen></iframe>-->
-[![globalsatmac](/images/globalsat_mac.png)](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be)
-
 ###DG-100 User Guide (pdf)
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
 
