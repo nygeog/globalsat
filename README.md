@@ -52,8 +52,11 @@ The windows software allows for more export options (according to the GlobalSat 
 
 I have a video that shows the steps on how to use the software but at this point I don't think I can show or share the file b/c it includes the raw data from the DOHMH PATS. 
 
-#####Global Sync for Mac
-[BEH Youtube Video Link](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be) 
+#####GlobalSat Data Logger PC Utility (Windows) 
+[BEH GlobalSat Data Logger PC Utility (Windows) Youtube Video Link](https://www.youtube.com/watch?v=nXzMpCh_Nww) 
+
+#####GlobalSync for Mac
+[BEH GlobalSync for Mac Youtube Video Link](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be) 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/PBN1F8u4G88" frameborder="0" allowfullscreen></iframe>
 
 ###DG-100 User Guide (pdf)
@@ -83,7 +86,7 @@ I calculate the geometric area of the building and then with the joined elevatio
 Then using a map of the quantiles of blocks by building bulk density I visually identified 1200 ft (check this against your maps!) walks that were either in the upper or lower quartile of building bulk density. These walks were also selected in that they were within a reasonable distance of public transit from Columbia University.
 
 
-###Assited GPS
+###Assisted GPS
 
 ######How Cell Phone GPS Works
 [How the iPhone knows where you are - MacWorld](http://www.macworld.com/article/1159528/how_iphone_location_works.html)
@@ -92,3 +95,10 @@ Then using a map of the quantiles of blocks by building bulk density I visually 
 
 [What do GPS and AGPS mean](https://www.youtube.com/watch?v=QYT9-qP_-pk&list=PLzdwB8GpDDG_6dIjq0ly8q89BjfcF1DI8)
 [Google Hangout AGPS](https://www.youtube.com/watch?v=x4_22zIMmHU)-->
+
+#Public Health Paper Resources
+
+1.             Almanza E, Jerrett M, Dunton G, Seto E, Pentz MA. A study of community design, greenness, and physical activity in children using satellite, GPS and accelerometer data. Health Place 2012;18(1):46-54.
+2.             Duncan MJ, Badland HM, Mummery WK. Applying GPS to enhance understanding of transport-related physical activity. J Sci Med Sport 2009;12(5):549-56.
+3.             Dunton, Genevieve Fridlund, et al. "Locations of joint physical activity in parent–child pairs based on accelerometer and GPS monitoring." Annals of Behavioral Medicine 45.1 (2013): 162-172.
+4.             Evenson, Kelly R., et al. "Assessing the Contribution of Parks to Physical Activity using GPS and Accelerometry." Medicine and science in sports and exercise (2013).
