@@ -58,7 +58,7 @@ I have a video that shows the steps on how to use the software but at this point
 
 ###GlobalSync for Mac
 [BEH GlobalSync for Mac Youtube Video Link](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be) 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/PBN1F8u4G88" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="420" height="315" src="http://www.youtube.com/embed/PBN1F8u4G88" frameborder="0" allowfullscreen></iframe>-->
 [![globalsatmac](/images/globalsat_mac.png)](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be)
 
 ###DG-100 User Guide (pdf)
