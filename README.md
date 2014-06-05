@@ -54,10 +54,12 @@ I have a video that shows the steps on how to use the software but at this point
 
 #####GlobalSat Data Logger PC Utility (Windows) 
 [BEH GlobalSat Data Logger PC Utility (Windows) Youtube Video Link](https://www.youtube.com/watch?v=nXzMpCh_Nww) 
+[![McCarren Park](/images/globalsat_pc.png)](https://www.youtube.com/watch?v=nXzMpCh_Nww)
 
 #####GlobalSync for Mac
 [BEH GlobalSync for Mac Youtube Video Link](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be) 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/PBN1F8u4G88" frameborder="0" allowfullscreen></iframe>
+[![McCarren Park](/images/globalsat_mac.png)](https://www.youtube.com/watch?v=PBN1F8u4G88&feature=youtu.be)
 
 ###DG-100 User Guide (pdf)
 [User guide pdf](https://github.com/nygeog/globalsat/blob/master/docs/dg100_userguide.pdf?raw=true)
