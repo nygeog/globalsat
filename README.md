@@ -31,8 +31,8 @@ Click image to get to seperate page documenting the walks.
 [![McCarren Park](images/mccarren_pk.png)](https://github.com/nygeog/globalsat/blob/master/mccarren_park.md)
 
 #Protocol
-TBD
-
+####GPS Start 
+![GPS Start](images/gps_start.png)
 1. Cold start the GPS at beginning of walk?
 
 ###DG-100 GPS+ Specifications
