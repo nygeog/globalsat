@@ -25,7 +25,7 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 #GPS Walks
 ##Toph's Walks
-Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). [PDF maps may be downloaded here.](https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf) Click [here for the methods of creating the walks.](https://github.com/nygeog/globalsat#building-bulk-density-and-choosing-walks)
+Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). <!--[PDF maps may be downloaded here.](https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf)--> Click [here for the methods of creating the walks.](https://github.com/nygeog/globalsat#building-bulk-density-and-choosing-walks)
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
 
 ##Danny's McCarren Park Walk
@@ -72,10 +72,11 @@ This poster includes info from Toph (former grad student of Andrew Rundle) who d
 
 #Quartiles of Percent Tree Canopy and Building Bulk by Census Block (2010)
 Click map to bring you to CartoDB
+####Building Density
 [![Building](images/bldg_map.png)](http://cdb.io/1u7DEc4)
-
+####Percent Tree Canopy
 [![Tree](images/tree_map.png)](http://cdb.io/1kP0jcL)
-
+####Buildings and Trees High and Low Quartiles
 [![Buildings and Trees](images/bldg_tree_hi-lo_map.png)](http://cdb.io/1pHJJvN)
 
 [ALL THREE LAYERS](http://cdb.io/1l1ALKi)
