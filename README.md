@@ -69,6 +69,14 @@ I have a video that shows the steps on how to use the software but at this point
 This poster includes info from Toph (former grad student of Andrew Rundle) who did these walks and presented a poster on the results. 
 [Toph's Poster as PDF](https://github.com/nygeog/globalsat/raw/master/docs/past_work/Practicum%20Poster%20Board.pdf)
 
+
+#Quartiles of Percent Tree Canopy and Building Bulk by Census Block (2010)
+Click map to bring you to CartoDB
+[![Building](images/bldg_map.png)](http://cdb.io/1u7DEc4)
+
+[![Tree](images/tree_map.png)](http://cdb.io/1kP0jcL)
+
+
 ####Notes
 
 Modes A,B,C can have different time periods set. All are at 5 seconds right now.
