@@ -91,7 +91,7 @@ Settings -> Configuration
 
 Deselect the checkbox for WAAS for 1 of the devices for the 2 that you have.  Make sure you note which device ID has WAAS on and which has WAAS off. 
 
-I don't have a device currently with me but here's a short [video for turning off WAAS]() that might help if you are stumped.
+I don't have a device currently with me but here's a short [video for turning off WAAS](http://youtu.be/UgUVzm4E5UY) that might help if you are stumped.
 
 ####Notes
 
