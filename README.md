@@ -1,4 +1,6 @@
 #Globalsat DG-100 GPS+ Data Logger - GPS Project
+[BETA TEST MAP](https://www.mapbox.com/v3/dms2203.ig16d6on/page.html#14/40.7189/-73.9933)
+
 #####Purpose
 To examine the reliability of GPS data logging for capturing trips in New York City. 
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/nygeog/globalsat/master/images/dg100sm.jpg)](http://www.usglobalsat.com/p-25-dg-100-gpsdata-logger.aspx)
