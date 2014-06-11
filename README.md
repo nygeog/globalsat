@@ -14,18 +14,21 @@ Joseph Konecko - joseph.konecko@stonybrook.edu
 
 ##Tasks for best/csibs staff:
 <!--0. ~~Test~~ -->
-1. Download the drivers and software (Windows version). [Software and Drivers](https://github.com/nygeog/globalsat#software-and-drivers-download)
-2. Install the driver. (Windows XP/ Vista/ 7 USB Drivers)
-3. Install the software. (Data Utility)
+1. ~~Download the drivers and software (Windows version). [Software and Drivers](https://github.com/nygeog/globalsat#software-and-drivers-download)~~
+2. ~~Install the driver. (Windows XP/ Vista/ 7 USB Drivers)~~
+3. ~~Install the software. (Data Utility)~~
+4. Send me GPX files from device.
+5. Go on Toph's walks. 
 
 ##Tasks for Danny:
 1. ~~Send Toph's GPS walk maps.~~
-2. Send Toph's Protocol. 
+2. ~~Send Toph's Protocol.~~
+3. Create walks for Tree Canopy and Buildings for post-Toph walks walks. 
 
 
 #GPS Walks
 ##Toph's Walks
-Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). <!--[PDF maps may be downloaded here.](https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf)--> Click [here for the methods of creating the walks.](https://github.com/nygeog/globalsat#building-bulk-density-and-choosing-walks)
+Here is a link to a [CartoDB map of the walks](http://cdb.io/1o5lbgn). <!--[PDF maps may be downloaded here.](https://github.com/nygeog/globalsat/raw/master/walks/Urban_Canyons_Small.pdf) --> Click [here for the methods of creating the walks.](https://github.com/nygeog/globalsat#building-bulk-density-and-choosing-walks)
 [![CartoDB Map](https://raw.githubusercontent.com/nygeog/globalsat/master/images/cartodb.png)](http://cdb.io/1o5lBU5)
 
 ##Danny's McCarren Park Walk
@@ -81,6 +84,14 @@ Click map to bring you to CartoDB
 
 [ALL THREE LAYERS](http://cdb.io/1l1ALKi)
 
+
+##Turning off WAAS
+To turn off the Wide Area Augmentation System Settings go to;
+Settings -> Configuration 
+
+Deselect the checkbox for WAAS for 1 of the devices for the 2 that you have.  Make sure you note which device ID has WAAS on and which has WAAS off. 
+
+I don't have a device currently with me but here's a short [video for turning off WAAS]() that might help if you are stumped.
 
 ####Notes
 
