@@ -76,6 +76,10 @@ Click map to bring you to CartoDB
 
 [![Tree](images/tree_map.png)](http://cdb.io/1kP0jcL)
 
+[![Buildings and Trees](images/bldg_tree_hi-lo_map.png)](http://cdb.io/1pHJJvN)
+
+[ALL THREE LAYERS](http://cdb.io/1l1ALKi)
+
 
 ####Notes
 
