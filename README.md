@@ -124,8 +124,12 @@ Then using a map of the quantiles of blocks by building bulk density I visually 
 [Google Hangout AGPS](https://www.youtube.com/watch?v=x4_22zIMmHU)-->
 
 #Public Health Paper Resources
-
+###From Gina
 1.             Almanza E, Jerrett M, Dunton G, Seto E, Pentz MA. A study of community design, greenness, and physical activity in children using satellite, GPS and accelerometer data. Health Place 2012;18(1):46-54.
 2.             Duncan MJ, Badland HM, Mummery WK. Applying GPS to enhance understanding of transport-related physical activity. J Sci Med Sport 2009;12(5):549-56.
 3.             Dunton, Genevieve Fridlund, et al. "Locations of joint physical activity in parent–child pairs based on accelerometer and GPS monitoring." Annals of Behavioral Medicine 45.1 (2013): 162-172.
 4.             Evenson, Kelly R., et al. "Assessing the Contribution of Parks to Physical Activity using GPS and Accelerometry." Medicine and science in sports and exercise (2013).
+
+###From Toph's Poster
+
+1. Stopher P, FitzGerald C, Zhang J. Search for a global positioning system device to measureperson travel. Transportation Research Part C: Emerging Technologies.2008;16(3):350–369.2. Cooper AR, Page AS, Wheeler BW, et al. Mapping the Walk to School Using AccelerometryCombined with a Global Positioning System. AMEPRE. 2010;38(2):178–183.3. Duncan MJ, Badland HM, MUMMERY WK. Applying GPS to enhance understanding oftransport-related physical activity. J Sci Med Sport. 2009;12(5):549–556.4. Duncan MJ, Mummery KW, Ben J Dascombe. Utility of global positioning system tomeasure active transport in urban areas. Med Sci Sports Exerc. 2007;39(10):1851–1857.5. Michael Y, McGregor E, Allen J, Fickas S. Observing outdoor activity using GlobalPositioning System-enabled cell phones. Smart Homes and Health Telematics.2008:177–184.6. Wiehe SE, Carroll AE, Liu GC, et al. Using GPS-enabled cell phones to track the travelpatterns of adolescents. Int J Health Geogr. 2008;7(1):22.
