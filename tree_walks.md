@@ -1,7 +1,7 @@
 #Tree Canopy GPS Walks in Manhattan & Bronx
 
 ###Map
-Click Map Image to bring you to the CartoDB Map
+Click Map Image to view the CartoDB Map
 [![CartoDB Map](images/tree_walks.png)](http://cdb.io/1qAqJ6l)
 
 Click <strong>View as iFrame</strong> if you need more screen real estate on your phone. 
@@ -24,7 +24,7 @@ Place the RunKeeper GPX files in the RunKeeper folder in Dropbox under your init
 #Filenaming conventions
 ####15770-waas-on-jk-20140626.gpx
 
-device # - waas status - 2 letter initials of user - date.gpx
+device # - waas status - 2 letter initials of user - date of data extraction from device.gpx
 
 
 ##Turning off WAAS
