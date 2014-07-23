@@ -4,7 +4,7 @@
 Click Map Image to view the CartoDB Map
 [![CartoDB Map](images/tree_walks.png)](http://cdb.io/1qAqJ6l)
 
-Click <strong>View as iFrame</strong> if you need more screen real estate on your phone. 
+Click <strong>View as an iFrame</strong> if you need more screen real estate on your phone. 
 
 ##Walks
 The map should be clear (if zoomed in) which side of the street to walk down. 
