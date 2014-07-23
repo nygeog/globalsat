@@ -11,6 +11,11 @@ The map should be clear (if zoomed in) which side of the street to walk down. If
 
 If for any chance a side of the street is impassable upon first getting to the walk, use the other side but mark it down in your notes. 
 
+######Remember to turn the device on at the beginning and turn it off at the end of the walk
+
+######Start and Stop RunKeeper app at the beginning and end of each walk too. 
+Place the RunKeeper GPX files in the RunKeeper folder in Dropbox under your initials 'mb.' 
+
 ##Notes to take at walks
 1. For each walk id (wuid)Start time, start time YYYYMMDD HH:MM:SS
 2. If the walk was disrupted by activity or construction.
