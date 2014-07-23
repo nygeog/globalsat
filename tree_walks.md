@@ -35,10 +35,7 @@ Deselect the checkbox for WAAS for 1 of the devices for the 2 that you have.  Ma
 
 I don't have a device currently with me but here's a short [video for turning off WAAS](http://youtu.be/UgUVzm4E5UY) that might help if you are stumped.
 
-##GPX files and clearing the GPS device data
-Joe, I received your GPX file. Please clear the GPS device to prep for Toph’s Walks.
-
-Ciara, I don’t see the GPX files in the Dropbox folder so please upload the GPX data to the Dropbox folder ‘cb'. There should be a few sample points on there so in case you didn’t get to collect data this past weekend/week just upload the data that was on the device.
+##Clearing the GPS device data
 
 ######Top toolbar
 
