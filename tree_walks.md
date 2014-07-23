@@ -20,9 +20,9 @@ If for any chance a side of the street is impassable upon first getting to the w
 Place the RunKeeper GPX files in the RunKeeper folder in Dropbox under your initials 'mb.' 
 
 ##Notes to take at walks:
-1. For each walk id (wuid)Start time - YYYYMMDD HH:MM:SS
-2. For each walk id (wuid)time to Satellite signal - YYYYMMDD HH:MM:SS
-3. For each walk id (wuid)End time - YYYYMMDD HH:MM:SS
+1. For each walk id (wuid) Start time - YYYYMMDD HH:MM:SS
+2. For each walk id (wuid) time to Satellite signal - YYYYMMDD HH:MM:SS
+3. For each walk id (wuid) End time - YYYYMMDD HH:MM:SS
 4. If the walk was disrupted by activity or construction.
 
 
