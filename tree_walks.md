@@ -7,7 +7,10 @@ Click Map Image to view the CartoDB Map
 Click <strong>View as iFrame</strong> if you need more screen real estate on your phone. 
 
 ##Walks
-The map should be clear (if zoomed in) which side of the street to walk down. If the walk is primarily North/South oriented walk from North to South. If the walk is East/West oriented walk from West to East. 
+The map should be clear (if zoomed in) which side of the street to walk down. 
+
+###Direction 
+If the walk is primarily North/South oriented walk from North to South. If the walk is East/West oriented walk from West to East. 
 
 If for any chance a side of the street is impassable upon first getting to the walk, use the other side but mark it down in your notes. 
 
@@ -16,9 +19,11 @@ If for any chance a side of the street is impassable upon first getting to the w
 ######Start and Stop RunKeeper app at the beginning and end of each walk too. 
 Place the RunKeeper GPX files in the RunKeeper folder in Dropbox under your initials 'mb.' 
 
-##Notes to take at walks
-1. For each walk id (wuid)Start time, start time YYYYMMDD HH:MM:SS
-2. If the walk was disrupted by activity or construction.
+##Notes to take at walks:
+1. For each walk id (wuid)Start time - YYYYMMDD HH:MM:SS
+2. For each walk id (wuid)time to Satellite signal - YYYYMMDD HH:MM:SS
+3. For each walk id (wuid)End time - YYYYMMDD HH:MM:SS
+4. If the walk was disrupted by activity or construction.
 
 
 #Filenaming conventions
