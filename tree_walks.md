@@ -1,4 +1,4 @@
-#Tree Canopy GPS Walks in Manhattan and Bronx
+#Tree Canopy GPS Walks in Manhattan & Bronx
 
 ###Map
 Click Map Image to bring you to the CartoDB Map
