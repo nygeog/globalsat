@@ -12,5 +12,29 @@ The map should be clear (if zoomed in) which side of the street to walk down. If
 If for any chance a side of the street is impassable upon first getting to the walk, use the other side but mark it down in your notes. 
 
 ##Notes to take at walks
-1. Start time, start time YYYYMMDD HH:MM:SS
+1. For each walk id (wuid)Start time, start time YYYYMMDD HH:MM:SS
 2. If the walk was disrupted by activity or construction.
+
+
+#Filenaming conventions
+####15770-waas-on-jk-20140626.gpx
+
+device # - waas status - 2 letter initials of user - date.gpx
+
+
+##Turning off WAAS
+To turn off the Wide Area Augmentation System Settings go to;
+Settings -> Configuration 
+
+Deselect the checkbox for WAAS for 1 of the devices for the 2 that you have.  Make sure you note which device ID has WAAS on and which has WAAS off. 
+
+I don't have a device currently with me but here's a short [video for turning off WAAS](http://youtu.be/UgUVzm4E5UY) that might help if you are stumped.
+
+##GPX files and clearing the GPS device data
+Joe, I received your GPX file. Please clear the GPS device to prep for Toph’s Walks.
+
+Ciara, I don’t see the GPX files in the Dropbox folder so please upload the GPX data to the Dropbox folder ‘cb'. There should be a few sample points on there so in case you didn’t get to collect data this past weekend/week just upload the data that was on the device.
+
+######Top toolbar
+
+TrackRecord -> Delete All, the hit Yes to clear it.
